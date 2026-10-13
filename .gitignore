@@ -30,3 +30,8 @@ Thumbs.db
 # Temporary & scratch
 scratch/
 *.tmp
+.playwright-mcp/
+
+# Ignore test screenshots outside public/
+*.png
+!public/**
