@@ -1,0 +1,121 @@
+- generic [ref=e3]:
+  - generic:
+    - generic:
+      - generic: CJERF AUTOMOTIVE
+      - generic: ACCÈS ATELIER AUTORISÉ
+    - generic:
+      - generic:
+        - generic:
+          - img "CJERF Automotive"
+        - generic: Atelier Fabrication Additive
+    - generic:
+      - generic:
+        - generic: Ouverture de l’atelier...
+        - generic: 100%
+      - generic: Affichage de l'expérience...
+  - banner [ref=e23]:
+    - generic [ref=e24]:
+      - link [ref=e25] [cursor=pointer]:
+        - /url: "#"
+        - img "CJERF Automotive" [ref=e26]
+      - button "Menu" [ref=e27] [cursor=pointer]
+  - main [ref=e29]:
+    - generic [ref=e381]:
+      - generic [ref=e382]:
+        - button "Retour" [ref=e383] [cursor=pointer]
+        - button "Consulter le Catalogue →" [ref=e387] [cursor=pointer]
+      - generic [ref=e393]:
+        - generic [ref=e394]: Rétro-Ingénierie Automobile
+        - heading "Pièce Sur-Mesure." [level=1] [ref=e397]
+        - paragraph [ref=e398]: Une pièce cassée, introuvable ou modifiée pour votre véhicule ? Décrivez votre besoin, notre atelier d'ingénierie vous répond directement sur WhatsApp avec faisabilité, modélisation CAO et devis.
+      - generic [ref=e399]:
+        - generic [ref=e400]:
+          - generic [ref=e401]:
+            - generic [ref=e402]: Prénom *
+            - 'textbox "Ex: Karim" [ref=e403]'
+          - generic [ref=e404]:
+            - generic [ref=e405]: Nom *
+            - 'textbox "Ex: Benali" [ref=e406]'
+        - generic [ref=e407]:
+          - generic [ref=e408]:
+            - generic [ref=e409]: Wilaya *
+            - button "16 Alger" [ref=e411] [cursor=pointer]:
+              - generic [ref=e412]:
+                - generic [ref=e416]: "16"
+                - generic [ref=e417]: Alger
+          - generic [ref=e420]:
+            - generic [ref=e421]: Téléphone (Optionnel)
+            - 'textbox "Ex: 0550 12 34 56" [ref=e422]'
+        - generic [ref=e423]:
+          - generic [ref=e424]: Véhicule (Marque & Modèle) *
+          - 'textbox "Ex: Seat Ibiza 6J, Saxo VTS, Peugeot 208..." [ref=e425]'
+        - generic [ref=e426]:
+          - generic [ref=e427]: Année du Véhicule *
+          - 'textbox "Ex: 2014" [ref=e428]'
+        - generic [ref=e429]:
+          - generic [ref=e430]: Description de la pièce recherchée *
+          - 'textbox "Décrivez précisément votre pièce : emplacement (avant/arrière, gauche/droite), clips cassés, dimensions ou scan..." [ref=e431]'
+        - button "Envoyer la demande sur WhatsApp" [ref=e432] [cursor=pointer]
+      - generic [ref=e436]:
+        - generic [ref=e444]:
+          - generic [ref=e445]: Précision ±0.05 mm
+          - generic [ref=e446]: Ajustement millimétrique garanti identique à la pièce OEM.
+        - generic [ref=e451]:
+          - generic [ref=e452]: Haute Résistance
+          - generic [ref=e453]: Polymères techniques traités anti-UV et jusqu'à 110°C.
+        - generic [ref=e460]:
+          - generic [ref=e461]: Livraison 58 Wilayas
+          - generic [ref=e462]: Expédition rapide à domicile ou en point relais.
+  - contentinfo [ref=e130]:
+    - generic [ref=e131]:
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - img "CJERF Automotive" [ref=e135]
+          - paragraph [ref=e136]: Atelier d’ingénierie et de fabrication additive automobile. Remplacement et renforcement de pièces de carrosserie introuvables.
+          - generic [ref=e137]: Alger, Algérie 🇩🇿 • 58 Wilayas
+        - generic [ref=e140]:
+          - heading "Navigation" [level=4] [ref=e141]
+          - list [ref=e142]:
+            - listitem [ref=e143]:
+              - link "Accueil" [ref=e144] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e146]:
+              - link "Catalogue des Pièces" [ref=e147] [cursor=pointer]:
+                - /url: "#/catalogue"
+            - listitem [ref=e152]:
+              - link "Métriques & Inspection 3D" [ref=e153] [cursor=pointer]:
+                - /url: "#metriques"
+            - listitem [ref=e154]:
+              - link "Processus Additif" [ref=e155] [cursor=pointer]:
+                - /url: "#fabrication"
+            - listitem [ref=e156]:
+              - link "Avis Clients Vérifiés" [ref=e157] [cursor=pointer]:
+                - /url: "#avis"
+            - listitem [ref=e158]:
+              - link "Pièce Sur-Mesure" [ref=e159] [cursor=pointer]:
+                - /url: "#/sur-mesure"
+        - generic [ref=e160]:
+          - heading "Réseaux & Contact" [level=4] [ref=e161]
+          - list [ref=e162]:
+            - listitem [ref=e163]:
+              - link "Instagram @cjerfautomotive_" [ref=e164] [cursor=pointer]:
+                - /url: https://www.instagram.com/cjerfautomotive_/
+                - generic [ref=e168]: Instagram
+                - generic [ref=e169]: "@cjerfautomotive_"
+            - listitem [ref=e170]:
+              - link "TikTok @cjerfautomotive" [ref=e171] [cursor=pointer]:
+                - /url: https://tiktok.com/@cjerfautomotive
+                - generic [ref=e174]: TikTok
+                - generic [ref=e175]: "@cjerfautomotive"
+            - listitem [ref=e176]:
+              - link "WhatsApp Direct" [ref=e177] [cursor=pointer]:
+                - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive
+            - listitem [ref=e181]:
+              - link "cjerfautomotive@gmail.com" [ref=e182] [cursor=pointer]:
+                - /url: mailto:cjerfautomotive@gmail.com
+      - generic [ref=e187]:
+        - generic [ref=e188]: © 2026 CJERF AUTOMOTIVE. Tous droits réservés.
+        - generic [ref=e189]:
+          - generic [ref=e190]: Site développé par
+          - link "Khalil Hamidani" [ref=e191] [cursor=pointer]:
+            - /url: https://khalilhamidani.engineer/

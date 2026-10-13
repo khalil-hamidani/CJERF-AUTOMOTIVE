@@ -1,0 +1,354 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "CJERF Automotive" [ref=e7]
+      - navigation [ref=e8]:
+        - button "Catalogue" [ref=e9] [cursor=pointer]
+        - link "Fabrication" [ref=e10] [cursor=pointer]:
+          - /url: "#fabrication"
+        - link "Avis" [ref=e11] [cursor=pointer]:
+          - /url: "#avis"
+        - button "Sur-Mesure" [ref=e12] [cursor=pointer]
+      - link "WhatsApp" [ref=e14] [cursor=pointer]:
+        - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive%2C%20je%20souhaite%20me%20renseigner%20sur%20vos%20pi%C3%A8ces.
+  - main [ref=e15]:
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - button "Retour à l'accueil" [ref=e19] [cursor=pointer]
+        - button "Consulter le Catalogue →" [ref=e23] [cursor=pointer]
+      - generic [ref=e29]:
+        - generic [ref=e30]: Atelier R&D // Rétro-Ingénierie & Fabrication Additive
+        - heading "Pièce Sur-Mesure." [level=1] [ref=e33]
+        - paragraph [ref=e34]: Une pièce cassée, introuvable ou modifiée pour votre véhicule ? Décrivez votre besoin, notre atelier d'ingénierie vous répond directement sur WhatsApp avec faisabilité, modélisation CAO et devis.
+      - generic [ref=e35]:
+        - generic [ref=e36]:
+          - generic [ref=e37]:
+            - generic [ref=e38]: Prénom *
+            - 'textbox "Ex: Karim" [ref=e39]'
+          - generic [ref=e40]:
+            - generic [ref=e41]: Nom *
+            - 'textbox "Ex: Benali" [ref=e42]'
+        - generic [ref=e43]:
+          - generic [ref=e44]:
+            - generic [ref=e45]: Wilaya *
+            - generic [ref=e46]:
+              - button "16 Alger" [expanded] [ref=e47] [cursor=pointer]:
+                - generic [ref=e48]:
+                  - generic [ref=e52]: "16"
+                  - generic [ref=e53]: Alger
+              - generic [ref=e166]:
+                - 'textbox "Rechercher wilaya ou n° (ex: 16, Oran)..." [active] [ref=e169]'
+                - generic [ref=e170]:
+                  - button "16 Alger" [ref=e171] [cursor=pointer]:
+                    - generic [ref=e172]:
+                      - generic [ref=e173]: "16"
+                      - generic [ref=e174]: Alger
+                  - button "31 Oran" [ref=e177] [cursor=pointer]:
+                    - generic [ref=e178]:
+                      - generic [ref=e179]: "31"
+                      - generic [ref=e180]: Oran
+                  - button "25 Constantine" [ref=e181] [cursor=pointer]:
+                    - generic [ref=e182]:
+                      - generic [ref=e183]: "25"
+                      - generic [ref=e184]: Constantine
+                  - button "19 Sétif" [ref=e185] [cursor=pointer]:
+                    - generic [ref=e186]:
+                      - generic [ref=e187]: "19"
+                      - generic [ref=e188]: Sétif
+                  - button "09 Blida" [ref=e189] [cursor=pointer]:
+                    - generic [ref=e190]:
+                      - generic [ref=e191]: "09"
+                      - generic [ref=e192]: Blida
+                  - button "35 Boumerdès" [ref=e193] [cursor=pointer]:
+                    - generic [ref=e194]:
+                      - generic [ref=e195]: "35"
+                      - generic [ref=e196]: Boumerdès
+                  - button "15 Tizi Ouzou" [ref=e197] [cursor=pointer]:
+                    - generic [ref=e198]:
+                      - generic [ref=e199]: "15"
+                      - generic [ref=e200]: Tizi Ouzou
+                  - button "06 Béjaïa" [ref=e201] [cursor=pointer]:
+                    - generic [ref=e202]:
+                      - generic [ref=e203]: "06"
+                      - generic [ref=e204]: Béjaïa
+                  - button "13 Tlemcen" [ref=e205] [cursor=pointer]:
+                    - generic [ref=e206]:
+                      - generic [ref=e207]: "13"
+                      - generic [ref=e208]: Tlemcen
+                  - button "23 Annaba" [ref=e209] [cursor=pointer]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: "23"
+                      - generic [ref=e212]: Annaba
+                  - button "34 Bordj Bou Arreridj" [ref=e213] [cursor=pointer]:
+                    - generic [ref=e214]:
+                      - generic [ref=e215]: "34"
+                      - generic [ref=e216]: Bordj Bou Arreridj
+                  - button "27 Mostaganem" [ref=e217] [cursor=pointer]:
+                    - generic [ref=e218]:
+                      - generic [ref=e219]: "27"
+                      - generic [ref=e220]: Mostaganem
+                  - button "01 Adrar" [ref=e221] [cursor=pointer]:
+                    - generic [ref=e222]:
+                      - generic [ref=e223]: "01"
+                      - generic [ref=e224]: Adrar
+                  - button "02 Chlef" [ref=e225] [cursor=pointer]:
+                    - generic [ref=e226]:
+                      - generic [ref=e227]: "02"
+                      - generic [ref=e228]: Chlef
+                  - button "03 Laghouat" [ref=e229] [cursor=pointer]:
+                    - generic [ref=e230]:
+                      - generic [ref=e231]: "03"
+                      - generic [ref=e232]: Laghouat
+                  - button "04 Oum El Bouaghi" [ref=e233] [cursor=pointer]:
+                    - generic [ref=e234]:
+                      - generic [ref=e235]: "04"
+                      - generic [ref=e236]: Oum El Bouaghi
+                  - button "05 Batna" [ref=e237] [cursor=pointer]:
+                    - generic [ref=e238]:
+                      - generic [ref=e239]: "05"
+                      - generic [ref=e240]: Batna
+                  - button "07 Biskra" [ref=e241] [cursor=pointer]:
+                    - generic [ref=e242]:
+                      - generic [ref=e243]: "07"
+                      - generic [ref=e244]: Biskra
+                  - button "08 Béchar" [ref=e245] [cursor=pointer]:
+                    - generic [ref=e246]:
+                      - generic [ref=e247]: "08"
+                      - generic [ref=e248]: Béchar
+                  - button "10 Bouira" [ref=e249] [cursor=pointer]:
+                    - generic [ref=e250]:
+                      - generic [ref=e251]: "10"
+                      - generic [ref=e252]: Bouira
+                  - button "11 Tamanrasset" [ref=e253] [cursor=pointer]:
+                    - generic [ref=e254]:
+                      - generic [ref=e255]: "11"
+                      - generic [ref=e256]: Tamanrasset
+                  - button "12 Tébessa" [ref=e257] [cursor=pointer]:
+                    - generic [ref=e258]:
+                      - generic [ref=e259]: "12"
+                      - generic [ref=e260]: Tébessa
+                  - button "14 Tiaret" [ref=e261] [cursor=pointer]:
+                    - generic [ref=e262]:
+                      - generic [ref=e263]: "14"
+                      - generic [ref=e264]: Tiaret
+                  - button "17 Djelfa" [ref=e265] [cursor=pointer]:
+                    - generic [ref=e266]:
+                      - generic [ref=e267]: "17"
+                      - generic [ref=e268]: Djelfa
+                  - button "18 Jijel" [ref=e269] [cursor=pointer]:
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: "18"
+                      - generic [ref=e272]: Jijel
+                  - button "20 Saïda" [ref=e273] [cursor=pointer]:
+                    - generic [ref=e274]:
+                      - generic [ref=e275]: "20"
+                      - generic [ref=e276]: Saïda
+                  - button "21 Skikda" [ref=e277] [cursor=pointer]:
+                    - generic [ref=e278]:
+                      - generic [ref=e279]: "21"
+                      - generic [ref=e280]: Skikda
+                  - button "22 Sidi Bel Abbès" [ref=e281] [cursor=pointer]:
+                    - generic [ref=e282]:
+                      - generic [ref=e283]: "22"
+                      - generic [ref=e284]: Sidi Bel Abbès
+                  - button "24 Guelma" [ref=e285] [cursor=pointer]:
+                    - generic [ref=e286]:
+                      - generic [ref=e287]: "24"
+                      - generic [ref=e288]: Guelma
+                  - button "26 Médéa" [ref=e289] [cursor=pointer]:
+                    - generic [ref=e290]:
+                      - generic [ref=e291]: "26"
+                      - generic [ref=e292]: Médéa
+                  - button "28 M'Sila" [ref=e293] [cursor=pointer]:
+                    - generic [ref=e294]:
+                      - generic [ref=e295]: "28"
+                      - generic [ref=e296]: M'Sila
+                  - button "29 Mascara" [ref=e297] [cursor=pointer]:
+                    - generic [ref=e298]:
+                      - generic [ref=e299]: "29"
+                      - generic [ref=e300]: Mascara
+                  - button "30 Ouargla" [ref=e301] [cursor=pointer]:
+                    - generic [ref=e302]:
+                      - generic [ref=e303]: "30"
+                      - generic [ref=e304]: Ouargla
+                  - button "32 El Bayadh" [ref=e305] [cursor=pointer]:
+                    - generic [ref=e306]:
+                      - generic [ref=e307]: "32"
+                      - generic [ref=e308]: El Bayadh
+                  - button "33 Illizi" [ref=e309] [cursor=pointer]:
+                    - generic [ref=e310]:
+                      - generic [ref=e311]: "33"
+                      - generic [ref=e312]: Illizi
+                  - button "36 El Tarf" [ref=e313] [cursor=pointer]:
+                    - generic [ref=e314]:
+                      - generic [ref=e315]: "36"
+                      - generic [ref=e316]: El Tarf
+                  - button "37 Tindouf" [ref=e317] [cursor=pointer]:
+                    - generic [ref=e318]:
+                      - generic [ref=e319]: "37"
+                      - generic [ref=e320]: Tindouf
+                  - button "38 Tissemsilt" [ref=e321] [cursor=pointer]:
+                    - generic [ref=e322]:
+                      - generic [ref=e323]: "38"
+                      - generic [ref=e324]: Tissemsilt
+                  - button "39 El Oued" [ref=e325] [cursor=pointer]:
+                    - generic [ref=e326]:
+                      - generic [ref=e327]: "39"
+                      - generic [ref=e328]: El Oued
+                  - button "40 Khenchela" [ref=e329] [cursor=pointer]:
+                    - generic [ref=e330]:
+                      - generic [ref=e331]: "40"
+                      - generic [ref=e332]: Khenchela
+                  - button "41 Souk Ahras" [ref=e333] [cursor=pointer]:
+                    - generic [ref=e334]:
+                      - generic [ref=e335]: "41"
+                      - generic [ref=e336]: Souk Ahras
+                  - button "42 Tipaza" [ref=e337] [cursor=pointer]:
+                    - generic [ref=e338]:
+                      - generic [ref=e339]: "42"
+                      - generic [ref=e340]: Tipaza
+                  - button "43 Mila" [ref=e341] [cursor=pointer]:
+                    - generic [ref=e342]:
+                      - generic [ref=e343]: "43"
+                      - generic [ref=e344]: Mila
+                  - button "44 Aïn Defla" [ref=e345] [cursor=pointer]:
+                    - generic [ref=e346]:
+                      - generic [ref=e347]: "44"
+                      - generic [ref=e348]: Aïn Defla
+                  - button "45 Naâma" [ref=e349] [cursor=pointer]:
+                    - generic [ref=e350]:
+                      - generic [ref=e351]: "45"
+                      - generic [ref=e352]: Naâma
+                  - button "46 Aïn Témouchent" [ref=e353] [cursor=pointer]:
+                    - generic [ref=e354]:
+                      - generic [ref=e355]: "46"
+                      - generic [ref=e356]: Aïn Témouchent
+                  - button "47 Ghardaïa" [ref=e357] [cursor=pointer]:
+                    - generic [ref=e358]:
+                      - generic [ref=e359]: "47"
+                      - generic [ref=e360]: Ghardaïa
+                  - button "48 Relizane" [ref=e361] [cursor=pointer]:
+                    - generic [ref=e362]:
+                      - generic [ref=e363]: "48"
+                      - generic [ref=e364]: Relizane
+                  - button "49 Timimoun" [ref=e365] [cursor=pointer]:
+                    - generic [ref=e366]:
+                      - generic [ref=e367]: "49"
+                      - generic [ref=e368]: Timimoun
+                  - button "50 Bordj Badji Mokhtar" [ref=e369] [cursor=pointer]:
+                    - generic [ref=e370]:
+                      - generic [ref=e371]: "50"
+                      - generic [ref=e372]: Bordj Badji Mokhtar
+                  - button "51 Ouled Djellal" [ref=e373] [cursor=pointer]:
+                    - generic [ref=e374]:
+                      - generic [ref=e375]: "51"
+                      - generic [ref=e376]: Ouled Djellal
+                  - button "52 Béni Abbès" [ref=e377] [cursor=pointer]:
+                    - generic [ref=e378]:
+                      - generic [ref=e379]: "52"
+                      - generic [ref=e380]: Béni Abbès
+                  - button "53 In Salah" [ref=e381] [cursor=pointer]:
+                    - generic [ref=e382]:
+                      - generic [ref=e383]: "53"
+                      - generic [ref=e384]: In Salah
+                  - button "54 In Guezzam" [ref=e385] [cursor=pointer]:
+                    - generic [ref=e386]:
+                      - generic [ref=e387]: "54"
+                      - generic [ref=e388]: In Guezzam
+                  - button "55 Touggourt" [ref=e389] [cursor=pointer]:
+                    - generic [ref=e390]:
+                      - generic [ref=e391]: "55"
+                      - generic [ref=e392]: Touggourt
+                  - button "56 Djanet" [ref=e393] [cursor=pointer]:
+                    - generic [ref=e394]:
+                      - generic [ref=e395]: "56"
+                      - generic [ref=e396]: Djanet
+                  - button "57 El M'Ghair" [ref=e397] [cursor=pointer]:
+                    - generic [ref=e398]:
+                      - generic [ref=e399]: "57"
+                      - generic [ref=e400]: El M'Ghair
+                  - button "58 El Meniaa" [ref=e401] [cursor=pointer]:
+                    - generic [ref=e402]:
+                      - generic [ref=e403]: "58"
+                      - generic [ref=e404]: El Meniaa
+                - generic [ref=e405]:
+                  - generic [ref=e406]: 58 WILAYAS D'ALGÉRIE
+                  - generic [ref=e407]: 58 disponibles
+          - generic [ref=e56]:
+            - generic [ref=e57]: Téléphone (Optionnel)
+            - 'textbox "Ex: 0550 12 34 56" [ref=e58]'
+        - generic [ref=e59]:
+          - generic [ref=e60]: Véhicule (Marque & Modèle) *
+          - 'textbox "Ex: Seat Ibiza 6J, Citroën Saxo VTS, Peugeot 208, Chevrolet Aveo..." [ref=e61]'
+        - generic [ref=e62]:
+          - generic [ref=e63]: Année du Véhicule *
+          - 'textbox "Ex: 2014" [ref=e64]'
+        - generic [ref=e65]:
+          - generic [ref=e66]: Description de la pièce recherchée *
+          - 'textbox "Décrivez précisément votre pièce : emplacement (avant/arrière, gauche/droite), pattes ou clips cassés, dimensions estimées, ou si vous possédez encore un morceau à scanner..." [ref=e67]'
+        - button "Envoyer la demande sur WhatsApp" [ref=e68] [cursor=pointer]
+      - generic [ref=e72]:
+        - generic [ref=e80]:
+          - generic [ref=e81]: Précision ±0.05 mm
+          - generic [ref=e82]: Ajustement millimétrique garanti identique à la pièce OEM d'origine.
+        - generic [ref=e87]:
+          - generic [ref=e88]: Matériaux Haute Résistance
+          - generic [ref=e89]: Polymères techniques traités anti-UV et résistants jusqu'à 110°C.
+        - generic [ref=e96]:
+          - generic [ref=e97]: Livraison 58 Wilayas
+          - generic [ref=e98]: Expédition rapide à domicile ou en point relais dans toute l'Algérie.
+  - contentinfo [ref=e99]:
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic [ref=e102]:
+          - img "CJERF Automotive" [ref=e104]
+          - paragraph [ref=e105]: Atelier d’ingénierie et de fabrication additive automobile. Remplacement et renforcement de pièces de carrosserie introuvables.
+          - generic [ref=e106]: Alger, Algérie 🇩🇿 • 58 Wilayas
+        - generic [ref=e109]:
+          - heading "Navigation" [level=4] [ref=e110]
+          - list [ref=e111]:
+            - listitem [ref=e112]:
+              - link "Accueil" [ref=e113] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e115]:
+              - link "Catalogue des Pièces" [ref=e116] [cursor=pointer]:
+                - /url: "#/catalogue"
+            - listitem [ref=e121]:
+              - link "Métriques & Inspection 3D" [ref=e122] [cursor=pointer]:
+                - /url: "#metriques"
+            - listitem [ref=e123]:
+              - link "Processus Additif" [ref=e124] [cursor=pointer]:
+                - /url: "#fabrication"
+            - listitem [ref=e125]:
+              - link "Avis Clients Vérifiés" [ref=e126] [cursor=pointer]:
+                - /url: "#avis"
+            - listitem [ref=e127]:
+              - link "Pièce Sur-Mesure" [ref=e128] [cursor=pointer]:
+                - /url: "#/sur-mesure"
+        - generic [ref=e129]:
+          - heading "Réseaux & Contact" [level=4] [ref=e130]
+          - list [ref=e131]:
+            - listitem [ref=e132]:
+              - link "Instagram @cjerfautomotive_" [ref=e133] [cursor=pointer]:
+                - /url: https://www.instagram.com/cjerfautomotive_/
+                - generic [ref=e137]: Instagram
+                - generic [ref=e138]: "@cjerfautomotive_"
+            - listitem [ref=e139]:
+              - link "TikTok @cjerfautomotive" [ref=e140] [cursor=pointer]:
+                - /url: https://tiktok.com/@cjerfautomotive
+                - generic [ref=e143]: TikTok
+                - generic [ref=e144]: "@cjerfautomotive"
+            - listitem [ref=e145]:
+              - link "WhatsApp Direct" [ref=e146] [cursor=pointer]:
+                - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive
+            - listitem [ref=e150]:
+              - link "cjerfautomotive@gmail.com" [ref=e151] [cursor=pointer]:
+                - /url: mailto:cjerfautomotive@gmail.com
+      - generic [ref=e156]:
+        - generic [ref=e157]: © 2026 CJERF AUTOMOTIVE. Tous droits réservés.
+        - generic [ref=e158]:
+          - generic [ref=e159]: Site développé par
+          - link "Khalil Hamidani" [ref=e160] [cursor=pointer]:
+            - /url: https://khalilhamidani.engineer/

@@ -1,0 +1,185 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - link [ref=e6] [cursor=pointer]:
+        - /url: "#"
+        - img "CJERF Automotive" [ref=e7]
+      - navigation [ref=e8]:
+        - button "Catalogue" [ref=e9] [cursor=pointer]
+        - link "Fabrication" [ref=e10] [cursor=pointer]:
+          - /url: "#fabrication"
+        - link "Avis" [ref=e11] [cursor=pointer]:
+          - /url: "#avis"
+        - button "Sur-Mesure" [ref=e12] [cursor=pointer]
+      - link "WhatsApp" [ref=e14] [cursor=pointer]:
+        - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive%2C%20je%20souhaite%20me%20renseigner%20sur%20vos%20pi%C3%A8ces.
+  - main [ref=e15]:
+    - generic [ref=e340]:
+      - generic [ref=e341]:
+        - heading "L’Ingénierie Inverse Automobile." [level=1] [ref=e345]
+        - paragraph [ref=e346]: Caches disparus, pièces introuvables et accessoires carrosserie conçus en CAO et fabriqués en Algérie.
+        - generic [ref=e347]:
+          - link "Voir le Catalogue" [ref=e348] [cursor=pointer]:
+            - /url: "#/catalogue"
+          - link "Demander du Sur-Mesure" [ref=e349] [cursor=pointer]:
+            - /url: "#/sur-mesure"
+      - generic [ref=e350]: Défiler pour voir la fabrication
+    - generic [ref=e354]:
+      - generic [ref=e355]:
+        - generic [ref=e356]:
+          - heading "L'Impact de la Précision Additive." [level=2] [ref=e357]
+          - paragraph [ref=e358]: Des pièces de carrosserie introuvables au détail, numérisées en CAO et réinjectées sur les routes avec une résistance supérieure aux plastiques d'origine.
+        - generic [ref=e359]:
+          - generic [ref=e360]:
+            - generic [ref=e361]: Volume Tirage
+            - generic [ref=e366]: "+0"
+            - generic [ref=e367]: Pièces Imprimées & Livrées
+            - paragraph [ref=e368]: Caches remorquage, coques et pièces rares en polymère technique.
+          - generic [ref=e369]:
+            - generic [ref=e370]: Parc Équipé
+            - generic [ref=e375]: 0+
+            - generic [ref=e376]: Clients Particuliers & Pros
+            - paragraph [ref=e377]: Propriétaires et carrossiers satisfaits dans toute l'Algérie.
+          - generic [ref=e378]:
+            - generic [ref=e379]: Précision Tolérance
+            - generic [ref=e384]: ±0.05 mm
+            - generic [ref=e385]: Ajustement Affleurant Zéro-Jeu
+            - paragraph [ref=e386]: Scan optique 3D haute résolution & contrôle qualité pièce par pièce.
+          - generic [ref=e387]:
+            - generic [ref=e388]: Délai Réalisation
+            - generic [ref=e393]: 0 H
+            - generic [ref=e394]: Départ Atelier Moyen
+            - paragraph [ref=e395]: Modélisation CAO, fabrication additive FDM et contrôle d'envoi.
+      - generic [ref=e396]:
+        - generic [ref=e398]:
+          - generic [ref=e399]: Inspection CAO 3D // Fichiers Réels Atelier
+          - heading "Visualiseur 3D Haute Précision." [level=3] [ref=e411]
+        - generic [ref=e412]:
+          - button "01. Cache Remorquage Avant" [ref=e413] [cursor=pointer]:
+            - generic [ref=e414]: "01."
+            - generic [ref=e415]: Cache Remorquage Avant
+          - button "02. Extension Pare-Choc Avant" [ref=e416] [cursor=pointer]:
+            - generic [ref=e417]: "02."
+            - generic [ref=e418]: Extension Pare-Choc Avant
+          - button "03. Coque Rétroviseur Obus" [ref=e419] [cursor=pointer]:
+            - generic [ref=e420]: "03."
+            - generic [ref=e421]: Coque Rétroviseur Obus
+          - button "04. Support Radar de Recul" [ref=e422] [cursor=pointer]:
+            - generic [ref=e423]: "04."
+            - generic [ref=e424]: Support Radar de Recul
+        - generic [ref=e425]:
+          - generic:
+            - generic:
+              - generic: Peugeot 107 (2005–2014)
+              - generic: Cache Remorquage Avant
+            - generic:
+              - generic: "DIM : 70 × 67 × 11 mm"
+              - generic: "TOL : ±0.05 mm"
+              - generic: Polymère Anti-UV Teinté Masse
+          - generic [ref=e428]:
+            - generic [ref=e429]:
+              - button "Solide" [ref=e430] [cursor=pointer]
+              - button "Pause rotation" [ref=e437] [cursor=pointer]
+              - button "Réinitialiser l'angle de vue" [ref=e441] [cursor=pointer]
+            - generic: GLISSER POUR PIVOTER 360° • MOLETTE POUR ZOOMER
+        - generic [ref=e445]:
+          - generic [ref=e446]:
+            - generic [ref=e447]: "Cache Pare-Choc Perdu :"
+            - text: Réplique exacte de la pièce disparue en concession. Ergots doubles anti-vibration.
+          - generic [ref=e448]: FICHIER GLB NATIF ATELIER // EXPORT CAD 1:1
+    - generic [ref=e452]:
+      - heading "Du Filament au Pare-Choc." [level=2] [ref=e453]
+      - paragraph [ref=e454]: De la bobine de polymère technique jusqu’à l'ajustement millimétrique sur la carrosserie d'origine.
+      - button "Voir le Catalogue" [ref=e456] [cursor=pointer]
+    - generic [ref=e461]:
+      - generic [ref=e462]:
+        - generic [ref=e463]: Retours Clients // 58 Wilayas
+        - heading "Retours d'Atelier." [level=2] [ref=e466]
+      - generic [ref=e467]:
+        - button "Ibiza 6J" [ref=e468] [cursor=pointer]
+        - button "Saxo VTS" [ref=e469] [cursor=pointer]
+        - button "Aveo LS" [ref=e470] [cursor=pointer]
+        - button "Peugeot 308" [ref=e471] [cursor=pointer]
+        - button "Golf 7 GTD" [ref=e472] [cursor=pointer]
+      - generic [ref=e473]:
+        - button "Avis précédent" [ref=e474] [cursor=pointer]
+        - generic [ref=e479]:
+          - generic [ref=e484]:
+            - generic [ref=e488]: Alger (16)
+            - generic [ref=e489]: •
+            - generic [ref=e490]: Livré en 48h
+          - paragraph [ref=e491]: « Clipsage immédiat sans aucun jeu mécanique. Texture de grain identique au pare-choc d’origine. »
+          - generic [ref=e492]:
+            - generic [ref=e493]:
+              - generic [ref=e494]:
+                - generic [ref=e495]: Karim B.
+                - generic [ref=e496]: —
+                - generic [ref=e497]: Seat Ibiza 6J
+              - generic [ref=e498]:
+                - generic [ref=e501]: Cache Remorquage Avant
+                - generic [ref=e502]: •
+                - generic [ref=e503]: PETG-CF Carbone (110°C)
+            - generic [ref=e504]: 01 / 05
+        - button "Avis suivant" [ref=e507] [cursor=pointer]
+  - contentinfo [ref=e191]:
+    - generic [ref=e192]:
+      - generic [ref=e193]:
+        - generic [ref=e194]:
+          - img "CJERF Automotive" [ref=e196]
+          - paragraph [ref=e197]: Atelier d’ingénierie et de fabrication additive automobile. Remplacement et renforcement de pièces de carrosserie introuvables.
+          - generic [ref=e198]: Alger, Algérie 🇩🇿 • 58 Wilayas
+        - generic [ref=e201]:
+          - heading "Navigation" [level=4] [ref=e202]
+          - list [ref=e203]:
+            - listitem [ref=e204]:
+              - link "Accueil" [ref=e205] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e207]:
+              - link "Catalogue des Pièces" [ref=e208] [cursor=pointer]:
+                - /url: "#/catalogue"
+            - listitem [ref=e213]:
+              - link "Métriques & Inspection 3D" [ref=e214] [cursor=pointer]:
+                - /url: "#metriques"
+            - listitem [ref=e215]:
+              - link "Processus Additif" [ref=e216] [cursor=pointer]:
+                - /url: "#fabrication"
+            - listitem [ref=e217]:
+              - link "Avis Clients Vérifiés" [ref=e218] [cursor=pointer]:
+                - /url: "#avis"
+            - listitem [ref=e219]:
+              - link "Pièce Sur-Mesure" [ref=e220] [cursor=pointer]:
+                - /url: "#/sur-mesure"
+        - generic [ref=e221]:
+          - heading "Réseaux & Contact" [level=4] [ref=e222]
+          - list [ref=e223]:
+            - listitem [ref=e224]:
+              - link "Instagram @cjerfautomotive" [ref=e225] [cursor=pointer]:
+                - /url: https://instagram.com/cjerfautomotive
+                - generic [ref=e229]: Instagram
+                - generic [ref=e230]: "@cjerfautomotive"
+            - listitem [ref=e231]:
+              - link "TikTok @cjerfautomotive" [ref=e232] [cursor=pointer]:
+                - /url: https://tiktok.com/@cjerfautomotive
+                - generic [ref=e235]: TikTok
+                - generic [ref=e236]: "@cjerfautomotive"
+            - listitem [ref=e237]:
+              - link "WhatsApp Direct" [ref=e238] [cursor=pointer]:
+                - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive
+            - listitem [ref=e242]:
+              - link "cjerfautomotive@gmail.com" [ref=e243] [cursor=pointer]:
+                - /url: mailto:cjerfautomotive@gmail.com
+        - generic [ref=e248]:
+          - heading "Spécifications Matériaux" [level=4] [ref=e249]
+          - generic [ref=e250]:
+            - generic [ref=e251]:
+              - generic [ref=e252]: PETG Carbone & ABS
+              - text: Résistance thermique jusqu’à 110°C, tenue UV sous le climat algérien.
+            - generic [ref=e253]:
+              - generic [ref=e254]: Tolérance ±0.05 mm
+              - text: Clipsage d’origine et verrouillage mécanique sans vibration.
+      - generic [ref=e255]:
+        - generic [ref=e256]: © 2026 CJERF AUTOMOTIVE. Tous droits réservés.
+        - generic [ref=e257]:
+          - generic [ref=e258]: Site développé par
+          - link "Khalil Hamidani" [ref=e259] [cursor=pointer]:
+            - /url: https://khalilhamidani.engineer/

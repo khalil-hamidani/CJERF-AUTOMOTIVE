@@ -1,0 +1,132 @@
+- generic [ref=e3]:
+  - generic:
+    - generic:
+      - generic: CJERF AUTOMOTIVE
+      - generic: ACCÈS ATELIER AUTORISÉ
+    - generic:
+      - generic:
+        - generic:
+          - img "CJERF Automotive"
+        - generic: Atelier Fabrication Additive
+    - generic:
+      - generic:
+        - generic: Ouverture de l’atelier...
+        - generic: 100%
+      - generic: Affichage de l'expérience...
+  - banner [ref=e23]:
+    - generic [ref=e24]:
+      - link [ref=e25] [cursor=pointer]:
+        - /url: "#"
+        - img "CJERF Automotive" [ref=e26]
+      - button "Menu" [ref=e27] [cursor=pointer]
+  - main [ref=e29]:
+    - generic [ref=e281]:
+      - generic [ref=e282]:
+        - button "Retour" [ref=e283] [cursor=pointer]
+        - generic [ref=e287]: Livraison 58 Wilayas
+      - generic [ref=e290]:
+        - generic [ref=e291]: Catalogue Pièces Spécifiques
+        - heading "Catalogue de Pièces." [level=1] [ref=e295]
+        - paragraph [ref=e296]: Fabrication à la demande en polymères techniques automobiles. Commandez directement votre modèle sur WhatsApp ou demandez une personnalisation.
+      - generic [ref=e297]:
+        - textbox "Rechercher modèle, pièce, marque..." [ref=e302]
+        - generic [ref=e303]:
+          - button "Tous" [ref=e304] [cursor=pointer]
+          - button "Seat" [ref=e305] [cursor=pointer]
+          - button "Peugeot" [ref=e306] [cursor=pointer]
+          - button "Chevrolet" [ref=e307] [cursor=pointer]
+      - generic [ref=e308]:
+        - generic [ref=e309]:
+          - generic [ref=e310]:
+            - img "Cache Remorquage — Seat Ibiza 6J" [ref=e311]
+            - generic [ref=e312]: Pièce Introuvable
+            - button "Agrandir l'image" [ref=e315] [cursor=pointer]
+          - generic [ref=e319]:
+            - generic [ref=e320]:
+              - generic [ref=e321]: 2008 – 2017 • PETG-CF / ABS Anti-UV (110°C)
+              - heading "Cache Remorquage — Seat Ibiza 6J" [level=3] [ref=e322]
+              - paragraph [ref=e323]: Remplacement direct du cache remorquage avant. Nervures de clipsage renforcées contre les pertes sur nid-de-poule.
+            - link "Commander sur WhatsApp" [ref=e325] [cursor=pointer]:
+              - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive%2C%20je%20souhaite%20commander%20la%20pi%C3%A8ce%20suivante%20%3A%0A-%20Produit%20%3A%20Cache%20Remorquage%20%E2%80%94%20Seat%20Ibiza%206J%0A-%20V%C3%A9hicule%20%3A%202008%20%E2%80%93%202017%0A-%20Provenance%20%3A%20Site%20Web%20Officiel%0A%0APouvez-vous%20me%20confirmer%20la%20disponibilit%C3%A9%20et%20le%20tarif%20de%20livraison%20%3F%20Merci%20!
+        - generic [ref=e331]:
+          - generic [ref=e332]:
+            - img "Cache Remorquage — Peugeot 107" [ref=e333]
+            - generic [ref=e334]: Finition OEM
+            - button "Agrandir l'image" [ref=e337] [cursor=pointer]
+          - generic [ref=e341]:
+            - generic [ref=e342]:
+              - generic [ref=e343]: 2005 – 2010 • Polymère Noir Texturé Haute Densité
+              - heading "Cache Remorquage — Peugeot 107" [level=3] [ref=e344]
+              - paragraph [ref=e345]: Profil incurvé épousant la découpe d’origine du pare-choc. Zéro vibration à haute vitesse.
+            - link "Commander sur WhatsApp" [ref=e347] [cursor=pointer]:
+              - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive%2C%20je%20souhaite%20commander%20la%20pi%C3%A8ce%20suivante%20%3A%0A-%20Produit%20%3A%20Cache%20Remorquage%20%E2%80%94%20Peugeot%20107%0A-%20V%C3%A9hicule%20%3A%202005%20%E2%80%93%202010%0A-%20Provenance%20%3A%20Site%20Web%20Officiel%0A%0APouvez-vous%20me%20confirmer%20la%20disponibilit%C3%A9%20et%20le%20tarif%20de%20livraison%20%3F%20Merci%20!
+        - generic [ref=e353]:
+          - generic [ref=e354]:
+            - img "Paire Caches Inférieurs — Chevrolet Aveo LS" [ref=e355]
+            - generic [ref=e356]: Kit Gauche + Droite
+            - button "Agrandir l'image" [ref=e359] [cursor=pointer]
+          - generic [ref=e363]:
+            - generic [ref=e364]:
+              - generic [ref=e365]: 2008 – 2013 • ABS Technique Renforcé
+              - heading "Paire Caches Inférieurs — Chevrolet Aveo LS" [level=3] [ref=e366]
+              - paragraph [ref=e367]: Paire complète pour la jupe avant inférieure. Résistant aux gravillons et aux déformations thermiques.
+            - link "Commander sur WhatsApp" [ref=e369] [cursor=pointer]:
+              - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive%2C%20je%20souhaite%20commander%20la%20pi%C3%A8ce%20suivante%20%3A%0A-%20Produit%20%3A%20Paire%20Caches%20Inf%C3%A9rieurs%20%E2%80%94%20Chevrolet%20Aveo%20LS%0A-%20V%C3%A9hicule%20%3A%202008%20%E2%80%93%202013%0A-%20Provenance%20%3A%20Site%20Web%20Officiel%0A%0APouvez-vous%20me%20confirmer%20la%20disponibilit%C3%A9%20et%20le%20tarif%20de%20livraison%20%3F%20Merci%20!
+      - generic [ref=e375]:
+        - generic [ref=e376]:
+          - heading "Votre pièce ne figure pas encore au catalogue ?" [level=3] [ref=e377]
+          - paragraph [ref=e378]: Nous concevons et imprimons n'importe quelle pièce introuvable à partir d'un échantillon ou d'un scan 3D.
+        - button "Lancer une demande sur-mesure" [ref=e379] [cursor=pointer]
+  - contentinfo [ref=e130]:
+    - generic [ref=e131]:
+      - generic [ref=e132]:
+        - generic [ref=e133]:
+          - img "CJERF Automotive" [ref=e135]
+          - paragraph [ref=e136]: Atelier d’ingénierie et de fabrication additive automobile. Remplacement et renforcement de pièces de carrosserie introuvables.
+          - generic [ref=e137]: Alger, Algérie 🇩🇿 • 58 Wilayas
+        - generic [ref=e140]:
+          - heading "Navigation" [level=4] [ref=e141]
+          - list [ref=e142]:
+            - listitem [ref=e143]:
+              - link "Accueil" [ref=e144] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e146]:
+              - link "Catalogue des Pièces" [ref=e147] [cursor=pointer]:
+                - /url: "#/catalogue"
+            - listitem [ref=e152]:
+              - link "Métriques & Inspection 3D" [ref=e153] [cursor=pointer]:
+                - /url: "#metriques"
+            - listitem [ref=e154]:
+              - link "Processus Additif" [ref=e155] [cursor=pointer]:
+                - /url: "#fabrication"
+            - listitem [ref=e156]:
+              - link "Avis Clients Vérifiés" [ref=e157] [cursor=pointer]:
+                - /url: "#avis"
+            - listitem [ref=e158]:
+              - link "Pièce Sur-Mesure" [ref=e159] [cursor=pointer]:
+                - /url: "#/sur-mesure"
+        - generic [ref=e160]:
+          - heading "Réseaux & Contact" [level=4] [ref=e161]
+          - list [ref=e162]:
+            - listitem [ref=e163]:
+              - link "Instagram @cjerfautomotive_" [ref=e164] [cursor=pointer]:
+                - /url: https://www.instagram.com/cjerfautomotive_/
+                - generic [ref=e168]: Instagram
+                - generic [ref=e169]: "@cjerfautomotive_"
+            - listitem [ref=e170]:
+              - link "TikTok @cjerfautomotive" [ref=e171] [cursor=pointer]:
+                - /url: https://tiktok.com/@cjerfautomotive
+                - generic [ref=e174]: TikTok
+                - generic [ref=e175]: "@cjerfautomotive"
+            - listitem [ref=e176]:
+              - link "WhatsApp Direct" [ref=e177] [cursor=pointer]:
+                - /url: https://wa.me/213790752359?text=Bonjour%20CJERF%20Automotive
+            - listitem [ref=e181]:
+              - link "cjerfautomotive@gmail.com" [ref=e182] [cursor=pointer]:
+                - /url: mailto:cjerfautomotive@gmail.com
+      - generic [ref=e187]:
+        - generic [ref=e188]: © 2026 CJERF AUTOMOTIVE. Tous droits réservés.
+        - generic [ref=e189]:
+          - generic [ref=e190]: Site développé par
+          - link "Khalil Hamidani" [ref=e191] [cursor=pointer]:
+            - /url: https://khalilhamidani.engineer/
