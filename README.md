@@ -7,17 +7,22 @@
 ![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-WebGL-000000?style=for-the-badge&logo=three.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Deployment](https://img.shields.io/badge/Deploy-Vercel%20%2F%20Netlify%20Ready-success?style=for-the-badge&logo=vercel&logoColor=white)
+![Deployment](https://img.shields.io/badge/Deploy-cjerf--automotive.vercel.app-success?style=for-the-badge&logo=vercel&logoColor=white)
 ![Territoire](https://img.shields.io/badge/Livraison-58%20Wilayas%20🇩🇿-E10600?style=for-the-badge)
 
 <br/>
+
+<p align="center">
+  <strong>🌐 Site Officiel & Démo Live : <a href="https://cjerf-automotive.vercel.app" target="_blank">cjerf-automotive.vercel.app</a></strong><br/>
+  <em>Miroir alternatif : <a href="https://cjerfautomotive.vercel.app" target="_blank">cjerfautomotive.vercel.app</a></em>
+</p>
 
 <p align="center">
   <strong>Atelier algérien spécialisé dans la rétro-ingénierie, la modélisation CAO et la reproduction de pièces de carrosserie introuvables.</strong><br/>
   Caches remorquage, écopes d'air, coques de rétroviseurs, bagues de capteurs radar conçus avec une tolérance OEM <strong>±0.05 mm</strong> et imprimés en polymères techniques haute performance (PETG-CF Carbone 110°C, ABS Technique, ASA Anti-UV).
 </p>
 
-[Explorer le Catalogue](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-catalogue-technique--avis-clients) • [Banc d'Inspection 3D](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-banc-dinspection-cao--visualiseur-3d) • [Démarrage Rapide](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-démarrage-rapide) • [Déploiement](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-guide-de-déploiement)
+[🌐 Démo en Ligne](https://cjerf-automotive.vercel.app) • [Explorer le Catalogue](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-catalogue-technique--avis-clients) • [Banc d'Inspection 3D](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-banc-dinspection-cao--visualiseur-3d) • [Démarrage Rapide](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-démarrage-rapide) • [Déploiement](https://github.com/khalil-hamidani/CJERF-AUTOMOTIVE#-guide-de-déploiement)
 
 </div>
 
