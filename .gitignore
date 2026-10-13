@@ -35,3 +35,5 @@ scratch/
 # Ignore test screenshots outside public/
 *.png
 !public/**
+.vercel
+.env*
